@@ -1,0 +1,12 @@
+[submodule "riscv-gnu-toolchain"]
+	path = riscv-gnu-toolchain
+	url = https://github.com/riscv/riscv-gnu-toolchain
+[submodule "project"]
+	path = project
+	url = https://github.com/EasoncoderTW/AISLAB_platform_project.git
+[submodule "Docker"]
+	path = Docker
+	url = https://github.com/EasoncoderTW/AISLAB_platform_Docker.git
+[submodule "FreeRTOS"]
+	path = FreeRTOS
+	url = https://github.com/FreeRTOS/FreeRTOS.git
