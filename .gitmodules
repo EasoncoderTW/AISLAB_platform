@@ -12,4 +12,4 @@
 	url = https://github.com/FreeRTOS/FreeRTOS.git
 [submodule "qemu"]
 	path = qemu
-	url = https://github.com/qemu/qemu
+	url = git@github.com:EasoncoderTW/AISLAB_platform_qemu.git
