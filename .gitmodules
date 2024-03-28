@@ -10,3 +10,6 @@
 [submodule "FreeRTOS"]
 	path = FreeRTOS
 	url = https://github.com/FreeRTOS/FreeRTOS.git
+[submodule "qemu"]
+	path = qemu
+	url = https://github.com/qemu/qemu
